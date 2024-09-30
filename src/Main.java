@@ -30,6 +30,7 @@ public class Main {
         }*/
         System.out.println(a+" "+op+" "+b+"="+ris);
     }
+
     /*static double somma(Double a, Double b) {
         return a+b;
     }
